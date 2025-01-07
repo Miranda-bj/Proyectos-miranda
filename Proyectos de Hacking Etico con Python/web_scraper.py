@@ -1,23 +1,24 @@
 '''
 PROYECTOS DE HACKING ETICO WITH PYTHON
-WEB SCRAPER
+WEB SCRAPER Y ANALISIS DE INFORMACION
 '''
 
-# Este proyecto implica crear un scraper web utilizando requests y BeautifulSoup.
+# Un raspador web para obtener información de páginas web es muy útil y se
+# puede realizar con requests y BeautifulSoup.
 
-# Explicación Paso a Paso
-# Se hace una solicitud HTTP para obtener el contenido de la página.
-# Se parsea el contenido HTML para extraer información específica.
+# PASOS
+# Importa requests para realizar solicitudes HTTP y BeautifulSoup para el análisis.
+# Define la función scrape_website que acepta una URL.
+# Realiza una solicitud GET a la URL y crea un objeto BeautifulSoup.
+# Extrae el título de la página y lo imprime.
 
 import requests
 from bs4 import BeautifulSoup
 
-# Función para extraer información de una página web
-def web_scraper(url):
+def scrape_website(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
-    for title in soup.find_all('h1'):
-        print(title.text)
+    title = soup.title.text
+    print(f"Title: {title}")
 
-# Ejemplo de uso
-web_scraper('https://example.com')
+scrape_website("https://example.com")
