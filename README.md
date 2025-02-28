@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Miranda Josue C10_D3V </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<h3 align="center">Hello, I'm C10_D3V, I'm a self-taught, intermediate-level programmer 👨‍💻, I program with Python, JavaScript, TypeScript and Bash, I also know Ethical Hacking🌐, and I'm currently studying Software Engineering and Artificial Intelligence independently🤖😉</h3>
+<h3 align="center">Hi, I'm Miranda (C10_D3V), I'm a self-taught programmer considering that I've reached an intermediate level 👨‍💻, I program with Python, JavaScript, TypeScript, Bash, Java, C++, Swift & Ruby, I also study Cybersecurity & I'm a fan of Ethical Hacking🌐, and I'm currently studying Software Engineering and Artificial Intelligence independently 🤖😉 My biggest dream is to be a software engineer for Microsoft & Google.👨‍💻</h3>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -8,7 +8,7 @@
 <br><br>
 - :school: I am a `intermediate` at programming and cybersecurity
 - :technologist: I love using Software as a solution for every `Problem`.
-- :technologist: Mid-level software developer `Python`, `JavaScript`, `TypeScript`, `Bash`
+- :technologist: Mid-level software developer `Python`, `JavaScript`, `TypeScript`, `Bash`, `Ruby`, `Java`, `C++` &  `Swift`
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Ethical Hacking` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
@@ -45,13 +45,18 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 &emsp;
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> BackEnd Development
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
